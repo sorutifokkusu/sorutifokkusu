@@ -1,5 +1,5 @@
-<h1 align="center">Hi 😼, I'm Cat</h1>
-<h3 align="center">A cat who is a developer.</h3>
+<h1 align="left">Hi 😼, I'm Cat</h1>
+<h3 align="left">A cat who is a developer.</h3>
 
 - 🌱 I’m currently learning **Front End Development(React)**
 
