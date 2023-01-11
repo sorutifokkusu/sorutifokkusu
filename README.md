@@ -2,7 +2,7 @@
 <h3 align="center">A cat who is a developer.</h3>
 
 - 🌱 I’m currently learning **Front End Development(React)**
-- 🦊 Resources I learn from **Free Code Camp**
+- 🦊 Resources I learn from **Free Code Camp, The Odin Project, and other platforms...**
 
 
 <h3 align="left">Languages and Tools:</h3>
