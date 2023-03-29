@@ -1,8 +1,8 @@
 <h1 align="center">Hi 😼</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Front End Development(React)**
-- 🦊 Resources I learn from **Free Code Camp, The Odin Project, and other platforms...**
+- 🌱 
+- 🦊 Frontend / Backend
 
 
 <h3 align="left">Languages and Tools:</h3>
