@@ -1,8 +1,8 @@
-<h1 align="center">Hi 😼</h1>
+<h1 align="center">Hi there! 😼</h1>
 <h3 align="center">Software Developer</h3>
 
 - I'm in tutorial hell.
-- 🦊 Frontend / Backend
+- 🦊 Frontend / Backend (Js / React - Python / Django )
 
 
 <h3 align="left">Languages and Tools:</h3>
